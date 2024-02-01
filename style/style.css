@@ -1,0 +1,14 @@
+/* Стили для страницы */
+.header{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.search-form__button{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    border: none;
+    border-radius: 7px;
+    padding: 10px 25px;
+}
